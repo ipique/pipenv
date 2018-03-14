@@ -51,10 +51,10 @@ Otherwise, just use pip::
     
 Make sure that you have following set in your `~/.profile` or elsewhere:
 
-```
-export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
-```
+
+    export LANG=en_US.UTF-8
+    export LC_ALL=en_US.UTF-8
+
 
 ✨🍰✨
 
