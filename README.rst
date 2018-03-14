@@ -48,6 +48,13 @@ Or, if you're using Ubuntu 17.10::
 Otherwise, just use pip::
 
     $ pip install pipenv
+    
+Make sure that you have following set in your `~/.profile` or elsewhere:
+
+```
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+```
 
 ✨🍰✨
 
